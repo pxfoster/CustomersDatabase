@@ -1,0 +1,18 @@
+*.class
+
+# BlueJ files
+*.ctxt
+doc/
+package.bluej
+
+# IntelliJ files
+.idea/
+out/
+*.iml
+
+# Eclipse files
+bin/
+.metadata/
+.settings/
+.recommenders/
+RemoteSystemsTempFiles/
